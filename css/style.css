@@ -1,0 +1,318 @@
+/*-------------Navbar Css Starts--------------*/
+.navbar-light .navbar-toggler-icon {
+    background-image: url(img/icons8-menu-bar.svg);
+}
+.navbar-brand img{height: 65px;}
+
+/*-------------Navbar Css End--------------*/
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 17px;
+  }
+  /*-------------Video One Stars--------------*/
+
+  #myVideo1 {
+    position: relative;
+    /* right: 0;
+    bottom: 0; */
+    width: 100%; 
+    
+  }
+  
+  #myVideo02 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    
+  }
+
+  #myVideo03 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    
+  }
+
+  #myVideo04 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    
+  }
+
+ #myVideo05 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    
+  }
+  
+  
+ #myVideo06 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    
+  }
+  .content1 {
+    position: absolute;
+    top: 50%;
+    margin: 0 auto;
+    text-align: center;
+   
+    color: white;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  #myBtn1 {
+    width: 50px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background:transparent;
+    color: #fff;
+    cursor: pointer;
+  }
+  #myBtn1 img{height: 50px;}
+  #myBtn1:hover {
+    background: transparent;
+    color: white;
+  }
+  
+  .content2{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+   
+    color: white;
+  
+    padding: 20px;
+  }
+  
+  #myBtn2 {
+    width: 50px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background:transparent;
+    color: #fff;
+    cursor: pointer;
+  }
+  #myBtn2 img{height: 40px;}
+  #myBtn2:hover {
+    background: transparent;
+    color: white;
+  }
+  
+  .content3{
+    position: absolute;
+    bottom: 0;
+   
+    margin: 0 auto; 
+     text-align: center;
+   
+    color: white;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  #myBtn3 {
+  
+    border: none;
+    background:transparent;
+    color: #fff;
+    cursor: pointer;
+  }
+  #myBtn3 img{height: 60px;}
+  #myBtn3:hover {
+    background: transparent;
+    color: white;
+  }
+  
+  /*-------------Video One End--------------*/
+
+  #myVideo2 {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    width: 100%; 
+    
+  }
+  
+  .content02 {
+    position: absolute;
+    top: 50%;
+    margin: 0 auto;
+    text-align: center;
+   
+    color: white;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  #myBtn02 {
+    width: 50px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background:transparent;
+    color: #fff;
+    cursor: pointer;
+  }
+  #myBtn02 img{height: 50px;}
+  #myBtn02:hover {
+    background: transparent;
+    color: white;
+  }
+
+
+  /* .d-mote-btn{border-radius: 50px;
+border: 1px solid white;
+background-color: transparent;
+color: white;
+padding: 8px 50px;
+
+} */
+  .second .content3{
+    position: absolute;
+    bottom: 30px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+
+ /*-------------Video Two End--------------*/
+
+ 
+ #myVideo3 {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    width: 100%; 
+    
+  }
+  
+  .content03 {
+    position: absolute;
+    top: 50%;
+    margin: 0 auto;
+    text-align: center;
+   
+    color: white;
+    width: 100%;
+    padding: 20px;
+  }
+  
+  #myBtn03 {
+    width: 50px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background:transparent;
+    color: #fff;
+    cursor: pointer;
+  }
+  #myBtn03 img{height: 50px;}
+  #myBtn03:hover {
+    background: transparent;
+    color: white;
+  }
+.d-desktop{display: block;}
+.d-mobile{display: none;}
+
+
+
+  #myBtn04 {
+    width: 50px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background:transparent;
+    color: #fff;
+    cursor: pointer;
+  }
+  #myBtn04 img{height: 50px;}
+  #myBtn04:hover {
+    background: transparent;
+    color: white;
+  }
+
+ #myBtn05 {
+    width: 50px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background:transparent;
+    color: #fff;
+    cursor: pointer;
+  }
+  #myBtn05 img{height: 50px;}
+  #myBtn05:hover {
+    background: transparent;
+    color: white;
+  }
+  
+   #myBtn06 {
+    width: 50px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background:transparent;
+    color: #fff;
+    cursor: pointer;
+  }
+  #myBtn06 img{height: 50px;}
+  #myBtn06:hover {
+    background: transparent;
+    color: white;
+  }
+
+
+  /* .d-mote-btn{border-radius: 50px;
+border: 1px solid white;
+background-color: transparent;
+color: white;
+padding: 8px 50px;
+
+} */
+  .third .content3{
+    position: absolute;
+    bottom: 30px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+.fourth .content3{
+    position: absolute;
+    bottom: 30px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
+.fifth .content3{
+    position: absolute;
+    bottom: 30px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    width: 100%;
+    padding: 20px;
+}
